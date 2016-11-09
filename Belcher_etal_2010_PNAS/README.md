@@ -6,7 +6,7 @@ Belcher, Yearsley, Hadden, McElwain, Rein (2010) "Baseline intrinsic flammabilit
 
 http://www.pnas.org/content/107/52/22448.abstract
 
-https://github.com/DrJonYearsley/Smouldering/edit/master/Belcher_etal_2010_PNAS/fireox.m      The model, written in MATLAB
+[fireox.m](https://github.com/DrJonYearsley/Smouldering/edit/master/Belcher_etal_2010_PNAS/fireox.m) The model, written in MATLAB
 
 ## Example simulation output parameterised for 21% oxygen
 
