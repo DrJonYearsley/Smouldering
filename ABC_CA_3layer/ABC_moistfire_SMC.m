@@ -30,8 +30,6 @@
 
 clear all
 
-startfile = '';
-
 filepref = 'FIRE_ABC'; % Prefix to use for all output files
 display = true;        % Print output of each Monte-Carlo iteration
 
@@ -86,7 +84,7 @@ end
 
 
 
-%% Do sequantial MCMC
+%% Do sequential MCMC
 
 chain.tries = zeros(chain.tsteps, chain.num); % Record the number of tires
 chain.weights = ones(chain.tsteps, chain.num)/chain.num; % Record the weights
