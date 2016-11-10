@@ -1,7 +1,7 @@
 %% A cellular automaton SIR model to look at propagation of smouldering combustion in peat
 
 % Model was published in Belcher et al (2010) 
-% "Baseline intrinsic flammability of Earth’s ecosystems estimated from 
+% "Baseline intrinsic flammability of Earthâ€™s ecosystems estimated from 
 % paleoatmospheric oxygen over the past 350 million years", PNAS Vol. 107,
 % No 52, p22448-22453
 
