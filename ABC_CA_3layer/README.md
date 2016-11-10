@@ -21,6 +21,22 @@ Files are:
 5. Use simulations to create a prior
 6. Return to step 1
 
- This algorithm is described in [Toni et al (2009), Approximate Bayesian computation scheme for parameter inference and model
- selection in dynamical systems, Interface, Vol. 6, p187-202.](http://rsif.royalsocietypublishing.org/content/6/31/187)
- doi:10.1098/rsif.2008.0172
+
+This algorithm is described in [Toni et al (2009), Approximate Bayesian computation scheme for parameter inference and model selection in dynamical systems, Interface, Vol. 6, p187-202.](http://rsif.royalsocietypublishing.org/content/6/31/187) doi:10.1098/rsif.2008.0172
+ 
+ 
+## Requirements
+ 
+### SPINIT
+To speed up the simulations the code uses the SPINIT routines written by Roman Zeyde for efficient initialization of sparse matrices. The SPINIT routine can be found at
+
+https://uk.mathworks.com/matlabcentral/fileexchange/30293-spinit
+
+or
+
+https://github.com/romanz/thesis/tree/master/utils/spinit
+
+The SPINIT routine can be turned into a MEX function
+
+### Statistics toolbox
+If gamma distributions are used then the statistics toolbox is required
