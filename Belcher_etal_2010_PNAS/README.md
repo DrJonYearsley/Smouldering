@@ -1,4 +1,4 @@
-# Simple cellular automata model of smouldering
+# Simple cellular automata model of smouldering (called FIREOX)
 
 The cellular automata model of peat smouldering combustion that appeared in Belcher et al (2010)
 
