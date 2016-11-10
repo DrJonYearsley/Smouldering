@@ -9,6 +9,7 @@ Files are:
 + **ABC_moistfire_simulation.m** run one simulation and save results
 + **ABC_moistfire_setup.m** initialize the parameters for a simulation
 + **ABC_distance.m** calculate the distance between a simulation and the experimental data
++ **myQuantile.m** calculate a given quantile of a data set (Matlab's stats toolbox has a similar function that could be used in place of this)
 
 
 ## Sequential Monte-Carlo Algorithm
